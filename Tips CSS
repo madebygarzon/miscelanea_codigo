@@ -2,3 +2,4 @@
 html{
 scroll-behavior: smooth; 
 }
+#Para responsive, la propiedad static, retorna a las funciones por defecto
