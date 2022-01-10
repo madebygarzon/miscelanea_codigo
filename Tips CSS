@@ -1,0 +1,4 @@
+#Efecto suave de scroll
+html{
+scroll-behavior: smooth; 
+}
